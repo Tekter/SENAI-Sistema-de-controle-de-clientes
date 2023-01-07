@@ -1,0 +1,15 @@
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\bin\Debug\net6.0\SENAI-controle-de-clientes.exe
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\bin\Debug\net6.0\SENAI-controle-de-clientes.deps.json
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\bin\Debug\net6.0\SENAI-controle-de-clientes.runtimeconfig.json
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\bin\Debug\net6.0\SENAI-controle-de-clientes.dll
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\bin\Debug\net6.0\SENAI-controle-de-clientes.pdb
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\SENAI-controle-de-clientes.csproj.AssemblyReference.cache
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\SENAI-controle-de-clientes.GeneratedMSBuildEditorConfig.editorconfig
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\SENAI-controle-de-clientes.AssemblyInfoInputs.cache
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\SENAI-controle-de-clientes.AssemblyInfo.cs
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\SENAI-controle-de-clientes.csproj.CoreCompileInputs.cache
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\SENAI-controle-de-clientes.dll
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\refint\SENAI-controle-de-clientes.dll
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\SENAI-controle-de-clientes.pdb
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\SENAI-controle-de-clientes.genruntimeconfig.cache
+F:\PC\Documentos\GIT\SENAI\SENAI-controle-de-clientes\obj\Debug\net6.0\ref\SENAI-controle-de-clientes.dll
