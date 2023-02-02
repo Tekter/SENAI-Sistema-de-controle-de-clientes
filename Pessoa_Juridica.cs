@@ -1,6 +1,6 @@
 namespace ControleDeClientes
 {
-    class Pessoa_Jurídica : Clientes {
+    class Pessoa_Juridica : Clientes {
         public string cnpj{get; set;}
         public string ie{get; set;}
 
