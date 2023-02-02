@@ -12,7 +12,7 @@ namespace ControleDeClientes
             string var_tipo = Console.ReadLine();
             if(var_tipo == "f"){
                 // --- Pessoa Física ----
-                Pessoa_Física pf = new Pessoa_Física();
+                Pessoa_Fisica pf = new Pessoa_Fisica();
                 pf.nome = var_nome;
                 pf.endereço = var_endereco;
                 Console.WriteLine("Informar CPF:");
@@ -36,7 +36,7 @@ namespace ControleDeClientes
                 }
             if(var_tipo == "j"){
                 // Pessoa Jurídica
-                Pessoa_Jurídica pj = new Pessoa_Jurídica();
+                Pessoa_Juridica pj = new Pessoa_Juridica();
                 pj.nome = var_nome;
                 pj.endereço = var_endereco;
                 Console.WriteLine("Informar CNPJ:");
