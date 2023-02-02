@@ -2,7 +2,7 @@
 {
     class Clientes {
         public string nome{get; set;}
-        public string endereço{get; set;}
+        public string endereco{get; set;}
         public float valor{get; protected set;}
         public float valor_imposto{get; protected set;}
         public float total{get; protected set;}
